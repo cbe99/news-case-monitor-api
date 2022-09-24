@@ -1,0 +1,8 @@
+{
+    "scm.alwaysShowRepositories": true,
+    "scm.defaultViewMode": "tree",
+    "debug.allowBreakpointsEverywhere": false,
+    "search.quickOpen.includeSymbols": false,
+    "git.allowForcePush": false,
+    "git.allowNoVerifyCommit": false
+}
